@@ -1,0 +1,11 @@
+body {
+    background-color: #331a00;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+    color: #f9f2ec;
+    text-align: center;
+    font-variant: small-caps;
+}
